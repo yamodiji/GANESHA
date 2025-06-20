@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Drawer</string>
+    <string name="search_apps">Search apps...</string>
+    <string name="rename_app">Rename</string>
+    <string name="app_info">App Info</string>
+    <string name="pin_app">Pin App</string>
+    <string name="unpin_app">Unpin App</string>
+    <string name="add_shortcut">Add Shortcut</string>
+    <string name="pinned_apps">Pinned Apps</string>
+    <string name="all_apps">All Apps</string>
+    <string name="no_apps_found">No apps found</string>
+    <string name="rename_dialog_title">Rename App</string>
+    <string name="rename_dialog_hint">Enter new name</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="clear_search">Clear search</string>
+</resources> 
